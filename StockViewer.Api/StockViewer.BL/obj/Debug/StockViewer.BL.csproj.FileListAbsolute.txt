@@ -1,0 +1,12 @@
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\StockViewer.BL.dll.config
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\StockViewer.BL.dll
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\StockViewer.BL.pdb
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\EntityFramework.dll
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\StockViewer.DL.dll
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\StockViewer.DL.pdb
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\EntityFramework.xml
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\obj\Debug\StockViewer.BL.csprojResolveAssemblyReference.cache
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\obj\Debug\StockViewer.BL.dll
+C:\Users\Magdy\Source\Repos\StockViewer\StockViewer.Api\StockViewer.BL\obj\Debug\StockViewer.BL.pdb
